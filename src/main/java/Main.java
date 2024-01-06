@@ -3,8 +3,8 @@ public class Main {
         Post post = new Post();
         post.name = "Иван";
         post.surname = "Иванов";
-        post.subscription = true;
         post.patronymic = "Иванович";
+        post.subscription = true;
         post.passport = "4444 № 444444";
         post.phone = "+7 (999)-999-99-99";
         post.birthday = new FormDate();
